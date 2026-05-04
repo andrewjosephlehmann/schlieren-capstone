@@ -4,8 +4,6 @@ Warning:
 
 This experiment involves a high power draw (up to 320 watts total); the initial apparatus can only handle 40 watts due to inadequate bus wiring and a power supply. (Do not run the apparatus continuously, as it would be prone to an electrical fire if a hardware malfunction were to occur (such as sending too much current into the heaters)). To reduce the risk of electric shock when inserting the array of heaters into the aquarium, do not touch the water in the fish tank while the apparatus is powered on. 
 
-Experimental Setup:
-
 BOM: 
 
 1 x 8 relay module https://a.co/d/0czdi1bT 
@@ -17,6 +15,14 @@ BOM:
 1 x Arduino Leonardo
 
 1 x Sparkfun PID 13906 https://a.co/d/0bEcR1Cd
+
+1 x 120W 12v 10A power supply
+
+
+
+Experimental Setup:
+
+
 
 
 Follow the same procedure for the heat gun test as outlined in the Scheliren capstone manual to ensure the camera can detect optical inhomogeneities emanating from the heat gun. 
