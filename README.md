@@ -8,10 +8,14 @@ Experimental Setup:
 
 BOM: 
 
-1 x 8 relay module https://a.co/d/0czdi1bT
+1 x 8 relay module https://a.co/d/0czdi1bT 
+
 8 x 40W 12V heater cartridges https://a.co/d/03P65jwe
+
 8 x NTC 3950 thermistors https://a.co/d/0iHnboFi
+
 1 x Arduino Leonardo
+
 1 x Sparkfun PID 13906 https://a.co/d/0bEcR1Cd
 
 
