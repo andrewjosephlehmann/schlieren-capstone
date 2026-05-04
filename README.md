@@ -35,7 +35,7 @@ The apparatus was initially held upright with a clamp, as shown in this image:
 
 <img width="1024" height="768" alt="E06C874C-9FB6-4DA0-A63A-565C320C115C_1_105_c" src="https://github.com/user-attachments/assets/7a1a4160-63c3-43bd-bbf5-43c8b474d3f7" />
 
-If the heater array is not redesigned to ensure that the wires from the heaters and temperature sensors do not compromise the array's stability when sitting upright. Please use a clamp made of a non-corrosive material, such as plastic, as the water quality will degrade rapidly, obstructing the optical setup's ability to observe inhomogeneities in the water.
+If the heater array is not redesigned so that the heater and temperature-sensor wires do not compromise its stability while upright, use a clamp made of a non-corrosive material, such as plastic. Otherwise, the water quality may degrade rapidly, obstructing the optical setup’s ability to observe inhomogeneities in the water.
 
 If this is replicated in the future, I would strongly recommend organizing the cables to prevent tangling, which could tug on the heater or temperature sensor wires. 
 
