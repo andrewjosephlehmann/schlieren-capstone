@@ -2,21 +2,26 @@
 
 Warning:
 
-This experiment involves a high power draw (up to 320 watts total); the initial apparatus can only handle 40 watts due to inadequate bus wiring and a power supply. (Do not run the apparatus continuously, as it would be prone to an electrical fire if a hardware malfunction were to occur (such as sending too much current into the heaters)). To reduce the risk of electric shock when inserting the array of heaters into the aquarium, do not touch the water in the fish tank while the apparatus is powered on. 
+This experiment involves a high power draw (up to 320 watts total); the initial apparatus can only handle 40 watts due to inadequate bus wiring and a power supply. (Do not run the apparatus continuously, as it would be prone to an electrical fire if a hardware malfunction were to occur due to jumper connectors employed as the bus bar)). To reduce the risk of electric shock when inserting the array of heaters into the aquarium, do not touch the water in the fish tank while the apparatus is powered on. 
 
 BOM: 
 
-1 x 8 relay module https://a.co/d/0czdi1bT 
+* Electrical:
+  - 1 x 8 relay module: https://a.co/d/0czdi1bT 
+  - 8 x 40W 12V heater cartridges: https://a.co/d/03P65jwe
+  - 8 x NTC 3950 thermistors: https://a.co/d/0iHnboFi
+  - 1 x Arduino Leonardo: https://store-usa.arduino.cc/products/arduino-leonardo-with-headers?srsltid=AfmBOoopEuwnMk43cNNV7SrJ7226z1KlUBDf1nWerPvuCSxlYED7YSE5
 
-8 x 40W 12V heater cartridges https://a.co/d/03P65jwe
+  - 1 x Sparkfun PID 13906 https://a.co/d/0bEcR1Cd
+  - 1 x 120W 12v 10A power supply
 
-8 x NTC 3950 thermistors https://a.co/d/0iHnboFi
 
-1 x Arduino Leonardo
+* Structual:
+  - 1 x Marine Epoxy (maximum rated temperature is 93C)
+  - 1 x Heater holder (found in 3D models folder, constructed with black at ABS 100% infill)
 
-1 x Sparkfun PID 13906 https://a.co/d/0bEcR1Cd
+  
 
-1 x 120W 12v 10A power supply
 
 
 
