@@ -18,7 +18,7 @@ BOM:
 
 * Structual:
   - 1 x Marine Epoxy (maximum rated temperature is 93C)
-  - 1 x Heater holder (found in 3D models folder, constructed with black at ABS 100% infill)
+  - 1 x Heater holder (found in 3D models folder, constructed with ABS at 100% infill)
 
   
 
