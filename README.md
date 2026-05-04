@@ -2,7 +2,7 @@
 
 Warning:
 
-This experiment involves a high power draw (up to 320 watts total); the initial apparatus can only handle 40 watts due to inadequate bus wiring and a power supply. (Do not run the apparatus continuously, as it would be prone to an electrical fire if a hardware malfunction were to occur due to jumper connectors employed as the bus bar)). To reduce the risk of electric shock when inserting the array of heaters into the aquarium, do not touch the water in the fish tank while the apparatus is powered on. 
+This experiment involves a high power draw (up to 320 watts total); the initial apparatus can only handle 40 watts due to inadequate bus wiring and a power supply. (Do not run the apparatus continuously, as it would be prone to an electrical fire if a hardware malfunction were to occur due to jumper connectors employed as the bus bar)). To reduce the risk of electric shock, do not touch the water in the fish tank while the apparatus is powered on. 
 
 BOM: 
 
